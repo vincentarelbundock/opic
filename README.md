@@ -6,7 +6,6 @@ http://www.opic.gov (2019-01-06):
 
 > The Overseas Private Investment Corporation (OPIC) is a self-sustaining U.S. Government agency that helps American businesses invest in emerging markets. Established in 1971, OPIC provides businesses with the tools to manage the risks associated with foreign direct investment, fosters economic development in emerging market countries, and advances U.S. foreign policy and national security priorities. OPIC helps American businesses gain footholds in new markets, catalyzes new revenues and contributes to jobs and growth opportunities both at home and abroad. OPIC fulfills its mission by providing businesses with financing, political risk insurance, advocacy and by partnering with private equity investment fund managers.
 
-
 # Download
 
 The dataset will be modified with updates and corrections as needed. We recommend that you use one of the "official" tagged versions of this project in your research: https://github.com/vincentarelbundock/opic/releases
@@ -18,6 +17,8 @@ The contents of this repository are licensed under Attribution 4.0 International
 Appropriate credit is given by citing:
 
 Arel-Bundock, Vincent, Clint Peinhardt, and Amy Pond. Forthcoming. "Political Risk Insurance: A New Firm-Level Dataset" *Journal of Conflict Resolution*.
+
+Preprint copy of this article: https://osf.io/uz4tx/
 
 ```
 @article{ArePeiPonForthcoming,
